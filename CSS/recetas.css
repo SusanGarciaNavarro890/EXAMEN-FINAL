@@ -110,6 +110,9 @@
  }
 
  @media screen and (max-width: 800px){
+ 	body {
+ 		background:#0000ff;
+ 	}
  	aside {
  		width:100%;
  	}
@@ -127,3 +130,5 @@
 		display:none;
 	}
 }
+
+
